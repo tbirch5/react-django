@@ -2,7 +2,8 @@
 
 A web application for storing and managing your favorite recipes.
 
-![Web Application UI](/src/assets/tedra-recipe-vault.png)
+![Web Application UI](client/app/src/assets/tedra-recipe-vault.png)
+
 
 ## Features
 
